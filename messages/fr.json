@@ -1,0 +1,7 @@
+{
+  "HomePage": {
+    "title": "Bonjour le monde!",
+    "description": "Bienvenue à <gradient>Next.js!</gradient>",
+    "newKey": "This is a new key added for testing purposes."
+  }
+}
