@@ -5,6 +5,10 @@ import { useEffect, useState } from 'react';
 const LOCALES = [
   { code: 'en', label: 'English' },
   { code: 'fr', label: 'Français' },
+  { code: 'yo', label: 'Yoruba' },
+  { code: 'es', label: 'Español' },
+  { code: 'de', label: 'Deutsch' },
+  { code: 'it', label: 'Italiano' },
 ];
 
 export default function LanguageSwitcher({
