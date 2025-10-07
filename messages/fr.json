@@ -3,6 +3,6 @@
     "title": "Bonjour le monde!",
     "description": "Bienvenue à <gradient>Next.js!</gradient>",
     "newKey": "Ceci est une nouvelle clé ajoutée à des fins de test.",
-    "crowdInKey": "I added this string on Crowdin"
+    "crowdInKey": "J'ai ajouté cette chaîne sur Crowdin"
   }
 }
