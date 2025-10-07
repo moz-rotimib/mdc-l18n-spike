@@ -1,7 +1,8 @@
 {
   "HomePage": {
-    "title": "Hello world!",
-    "description": "Welcome to <gradient>Next.js!</gradient>",
-    "newKey": "This is a new key added for testing purposes."
+    "title": "Hallo Welt!",
+    "description": "Willkommen bei <gradient>Next.js!</gradient>",
+    "newKey": "Dies ist ein neuer Schlüssel, der zu Testzwecken hinzugefügt wird.",
+    "crowdInKey": "I added this string on Crowdin"
   }
 }
